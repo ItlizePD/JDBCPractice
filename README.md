@@ -1,12 +1,12 @@
 # JDBCPractice
 
 ## homepage
-![alt text](https://github.com/ItlizePD/JDBCPractice/images/homepage.jpg?raw=true)
+![alt text](https://github.com/ItlizePD/JDBCPractice/homepage.jpg?raw=true)
 ## showAllStudent
-![alt text](https://github.com/ItlizePD/JDBCPractice/images/showall.jpg?raw=true)
+![alt text](https://github.com/ItlizePD/JDBCPractice/showall.jpg?raw=true)
 ## addNewStudent
-![alt text](https://github.com/ItlizePD/JDBCPractice/images/addnew.jpg?raw=true)
+![alt text](https://github.com/ItlizePD/JDBCPractice/addnew.jpg?raw=true)
 ## update
-![alt text](https://github.com/ItlizePD/JDBCPractice/images/update.jpg?raw=true)
+![alt text](https://github.com/ItlizePD/JDBCPractice/update.jpg?raw=true)
 ## delete
-![alt text](https://github.com/ItlizePD/JDBCPractice/images/delete.jpg?raw=true)
+![alt text](https://github.com/ItlizePD/JDBCPractice/delete.jpg?raw=true)
