@@ -88,7 +88,7 @@ public class StudentDao {
     }
 
     public void deleteStudent(String name){
-        String sql ="delete student where name=? ";
+        String sql ="delete from student where name=? ";
         Connection con = JDBCUtil.getCon();
         try {
             PreparedStatement pst=con.prepareCall(sql);
