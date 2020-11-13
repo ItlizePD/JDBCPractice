@@ -48,5 +48,14 @@
         <servlet-name>updateStudent</servlet-name>
         <url-pattern>/update</url-pattern>
     </servlet-mapping>
+         
+    <servlet>
+        <servlet-name>deleteStudent</servlet-name>
+        <servlet-class>controller.deleteController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>deleteStudent</servlet-name>
+        <url-pattern>/delete</url-pattern>
+    </servlet-mapping>
 
 </web-app>
