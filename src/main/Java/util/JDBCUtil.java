@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class JDBCUtil {
     private static final String DBURL = "jdbc:mysql://localhost:3306/Training?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=false";
     private static final String USERNAME ="root";
-    private static final String USERPSW = "QIUHEchamygn1996@";
+    private static final String USERPSW = "";
     private static final String DRIVERNAME ="com.mysql.cj.jdbc.Driver";
 
 
